@@ -1,0 +1,109 @@
+data folder is C:\Users\mli\workspace\MMad2017
+There is data file to use>>>2017 Data.xlsx
+ team Name: UC Davis total score: 19211.0
+ team Name: Mt St Mary's total score: 20114.0
+ team Name: South Dakota St total score: 22644.0
+ team Name: Northern Kentucky total score: 23004.0
+ team Name: Jacksonville St total score: 23077.0
+ team Name: Texas Southern total score: 23584.0
+ team Name: NC Central total score: 24263.0
+ team Name: North Dakota total score: 25793.0
+ team Name: New Orleans total score: 26281.0
+ team Name: Troy total score: 27475.0
+ team Name: Winthrop total score: 28403.0
+ team Name: FGCU total score: 28877.0
+ team Name: Bucknell total score: 29601.0
+ team Name: Iona total score: 31569.0
+ team Name: New Mexico St total score: 31952.0
+ team Name: Kent St total score: 34341.0
+ team Name: Vermont total score: 34946.0
+ team Name: ETSU total score: 37237.0
+ team Name: Nevada total score: 37368.0
+ team Name: Michigan St total score: 38632.0
+ team Name: Virginia Tech total score: 39770.0
+ team Name: UNCW total score: 40438.0
+ team Name: Princeton total score: 40768.0
+ team Name: Middle Tennessee total score: 40937.0
+ team Name: Seton Hall total score: 42126.0
+ team Name: Maryland total score: 42236.0
+ team Name: Southern California total score: 42930.0
+ team Name: Providence total score: 43162.0
+ team Name: Rhode Island total score: 43767.0
+ team Name: St. Mary's total score: 44431.0
+ team Name: Xavier total score: 44515.0
+ team Name: VCU total score: 44648.0
+ team Name: Creighton total score: 45883.0
+ team Name: Vanderbilt total score: 46033.0
+ team Name: UCLA total score: 46221.0
+ team Name: Marquette total score: 46400.0
+ team Name: Wake Forest total score: 47065.0
+ team Name: Dayton total score: 47632.0
+ team Name: Miami total score: 47742.0
+ team Name: Arkansas total score: 47760.0
+ team Name: Kansas St total score: 48652.0
+ team Name: SMU total score: 48755.0
+ team Name: Minnesota total score: 48947.0
+ team Name: Northwestern total score: 48971.0
+ team Name: Purdue total score: 50953.0
+ team Name: Arizona total score: 50962.0
+ team Name: Wisconsin total score: 51345.0
+ team Name: Oregon total score: 51491.0
+ team Name: Kansas total score: 52256.0
+ team Name: Cincinnati total score: 52322.0
+ team Name: Michigan total score: 52722.0
+ team Name: Wichita St total score: 52759.0
+ team Name: Butler total score: 52848.0
+ team Name: Baylor total score: 53096.0
+ team Name: Florida St total score: 53656.0
+ team Name: Gonzaga total score: 53914.0
+ team Name: Iowa St total score: 55108.0
+ team Name: South Carolina total score: 55111.0
+ team Name: Duke total score: 55251.0
+ team Name: Notre Dame total score: 56057.0
+ team Name: Oklahoma St total score: 57800.0
+ team Name: Kentucky total score: 58084.0
+ team Name: Virginia total score: 58758.0
+ team Name: Louisville total score: 59643.0
+ team Name: Villanova total score: 59829.0
+ team Name: Florida  total score: 60659.0
+ team Name: North Carolina total score: 60844.0
+ team Name: West Virginia total score: 66470.0
+
+East Side team First Round winners:
+Gonzaga recent rank: 1 total score is: 53914.0. (Loser: Texas Southern with scoure 23584.0)
+Villanova recent rank: 2 total score is: 59829.0. (Loser: South Dakota St with scoure 22644.0)
+North Carolina recent rank: 3 total score is: 60844.0. (Loser: New Orleans with scoure 26281.0)
+Kentucky recent rank: 4 total score is: 58084.0. (Loser: North Dakota with scoure 25793.0)
+West Virginia recent rank: 5 total score is: 66470.0. (Loser: Jacksonville St with scoure 23077.0)
+Louisville recent rank: 6 total score is: 59643.0. (Loser: NC Central with scoure 24263.0)
+Virginia recent rank: 7 total score is: 58758.0. (Loser: Northern Kentucky with scoure 23004.0)
+Wichita St recent rank: 8 total score is: 52759.0. (Loser: Kent St with scoure 34341.0)
+Florida  recent rank: 9 total score is: 60659.0. (Loser: Troy with scoure 27475.0)
+Kansas recent rank: 10 total score is: 52256.0. (Loser: Iona with scoure 31569.0)
+SMU recent rank: 11 total score is: 48755.0. (Loser: Winthrop with scoure 28403.0)
+Duke recent rank: 12 total score is: 55251.0. (Loser: FGCU with scoure 28877.0)
+Baylor recent rank: 13 total score is: 53096.0. (Loser: New Mexico St with scoure 31952.0)
+St. Mary's recent rank: 14 total score is: 44431.0. (Loser: Bucknell with scoure 29601.0)
+Purdue recent rank: 15 total score is: 50953.0. (Loser: ETSU with scoure 37237.0)
+Oregon recent rank: 16 total score is: 51491.0. (Loser: Vermont with scoure 34946.0)
+Iowa St recent rank: 17 total score is: 55108.0. (Loser: Southern California with scoure 42930.0)
+
+
+West Side team First Round winners:
+Villanova recent rank: 2 total score is: 59829.0. (Loser: South Dakota St with scoure 22644.0)
+North Carolina recent rank: 3 total score is: 60844.0. (Loser: New Orleans with scoure 26281.0)
+Kentucky recent rank: 4 total score is: 58084.0. (Loser: North Dakota with scoure 25793.0)
+West Virginia recent rank: 5 total score is: 66470.0. (Loser: Jacksonville St with scoure 23077.0)
+Louisville recent rank: 6 total score is: 59643.0. (Loser: NC Central with scoure 24263.0)
+Virginia recent rank: 7 total score is: 58758.0. (Loser: Northern Kentucky with scoure 23004.0)
+Wichita St recent rank: 8 total score is: 52759.0. (Loser: Kent St with scoure 34341.0)
+Florida  recent rank: 9 total score is: 60659.0. (Loser: Troy with scoure 27475.0)
+Kansas recent rank: 10 total score is: 52256.0. (Loser: Iona with scoure 31569.0)
+SMU recent rank: 11 total score is: 48755.0. (Loser: Winthrop with scoure 28403.0)
+Duke recent rank: 12 total score is: 55251.0. (Loser: FGCU with scoure 28877.0)
+Baylor recent rank: 13 total score is: 53096.0. (Loser: New Mexico St with scoure 31952.0)
+St. Mary's recent rank: 14 total score is: 44431.0. (Loser: Bucknell with scoure 29601.0)
+Purdue recent rank: 15 total score is: 50953.0. (Loser: ETSU with scoure 37237.0)
+Oregon recent rank: 16 total score is: 51491.0. (Loser: Vermont with scoure 34946.0)
+Iowa St recent rank: 17 total score is: 55108.0. (Loser: Southern California with scoure 42930.0)
+UCLA recent rank: 18 total score is: 46221.0. (Loser: UNCW with scoure 40438.0)
