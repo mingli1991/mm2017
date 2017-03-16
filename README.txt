@@ -10,4 +10,7 @@ Basic design ideas:
 		((120 -40)/(180-40))*5/100 = (8/14)*0.05 = 0.2/7 ~ 0.0286
 
 3. add the calculated the percentage for each category to get total score for each team (this total should be less than 1). 
-4. print out the total score for each team for picking up the winner if any team meets. For readabilty, time the total with 100000.		
+4. print out the total score for each team for picking up the winner if any team meets. For readabilty, time the total with 100000.
+5. to run the app, create jar with all the lib and the main class, copy the data file to the same folder with jar file 
+   and go to the jar folder, under that folder type:
+	java -jar PickWinner.jar		
